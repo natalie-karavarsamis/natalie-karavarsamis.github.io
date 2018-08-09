@@ -1,8 +1,7 @@
 ---
-title: "Index"
-author: "Natalie"
+title: "Natalie Karavarsamis, PhD"
 date: "8/9/2018"
 output: html_document
 ---
 
-Hello world
+[CV](natalie-karavarsamis.github.io/KaravarsamisCV-2018.pdf)
