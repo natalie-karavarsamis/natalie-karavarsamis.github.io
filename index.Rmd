@@ -1,7 +1,37 @@
 ---
 title: "Natalie Karavarsamis, PhD"
-date: "8/9/2018"
-output: html_document
+output: 
+  html_document:
+      theme: spacelab
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
-[CV](natalie-karavarsamis.github.io/KaravarsamisCV-2018.pdf)
+## Contact Details <br> 
+Dr Natalie Karavarsamis 
+
+1. Lecturer 
+
+Department of Mathematics and Statistics 
+
+La Trobe University 
+
+Melbourne, Victoria, Australia 
+
+Email: n.karavarsamis@latrobe.edu.au 
+
+
+2. Honorary Fellow
+
+School of Mathematics and Statistics
+
+University of Melbourne
+
+Victoria, Australia 
+
+Email: nkarav@unimelb.edu.au
+
+---
+
+## Curriculum Vitae
+
+[Download Here](natalie-karavarsamis.github.io/KaravarsamisCV-2018.pdf)
