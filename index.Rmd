@@ -6,6 +6,10 @@ output:
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
+<img src="https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/Staff_pic.jpg"  style="width: 200px;"/>
+
+---
+
 ## Contact Details <br> 
 Dr Natalie Karavarsamis 
 
