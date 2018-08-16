@@ -6,7 +6,7 @@ output:
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
-<img src="https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/Staff_pic.png"  style="width: 200px;"/>
+<img src= "https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/blob/master/Staff_pic.png?raw=true" style="width: 200px;"/>
 
 ---
 
