@@ -3,7 +3,7 @@ title: "Natalie Karavarsamis, PhD"
 output: 
   html_document:
       theme: spacelab
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "09 October, 2018"
 ---
 
 [//]: # (<img src= "https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/blob/master/Staff_pic.png?raw=true" style="width: 200px;"/>)
