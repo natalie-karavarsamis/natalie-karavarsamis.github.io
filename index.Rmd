@@ -36,16 +36,12 @@ Victoria, Australia
 
 Email: nkarav@unimelb.edu.au
 
----
-
-## Brief Bio
-My extensive teaching, research and consulting experience that commenced a decade before my PhD candidature. My career spans two decades of experience, knowledge and acquisition of skills. Experience working in a number of statistical research areas, statistical consulting, statistical teaching and academic practice has provided me with versatility to conduct research, collaborate, supervise and teach across a broad range of statistics disciplines. These include medical statistics, primary industries, ecological statistical research and neuroscience. I am enthusiastic, and continue contributions to the body of statstical work with my expertise to progress and develop methods in these and other areas of statistics and its applications. 
 
 ---
 
 ## Curriculum Vitae
 
-[Download Here](natalie-karavarsamis.github.io/natalie-karavarsamis-resume-V2.pdf)
+[Download Here](natalie-karavarsamis.github.io/natalie-karavarsamis-resume-V4.pdf)
 
 ---
 
@@ -64,7 +60,7 @@ AMSI - full supervisor for two AMSI Summer Scholars
 
 ---
 
-## Professional Service & Outreach (current press)
+## Press & Gallery
 
 [Choose Maths at la Trobe](natalie-karavarsamis.github.io/CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
 
