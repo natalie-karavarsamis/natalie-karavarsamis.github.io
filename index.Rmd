@@ -12,9 +12,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 ---
 
-## Contact Details
-
----
+Contact Details
 
 Dr Natalie Karavarsamis 
 
@@ -34,7 +32,7 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 
 ---
 
-## Brief Bio
+Brief Bio
 
 I am a Lecturer in Statistics at La Trobe University. I obtained her PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I have worked in a number for statistical areas such as at the Cancer Council of Victoria, Department of Primary Industries, and research fellow at Department of Food and Land Sciences (University of Melbourne), and post doctoral researcher with School of Biosciences  (University of Melbourne) and RMIT.
 
