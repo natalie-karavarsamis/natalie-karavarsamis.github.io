@@ -34,9 +34,9 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 
 Brief Bio
 
-I am a Lecturer in Statistics at La Trobe University. I obtained her PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I have worked in a number for statistical areas such as at the Cancer Council of Victoria, Department of Primary Industries, and research fellow at Department of Food and Land Sciences (University of Melbourne), and post doctoral researcher with School of Biosciences  (University of Melbourne) and RMIT.
+I am a Lecturer in Statistics at La Trobe University. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I  worked in a number for statistical areas such as at the Cancer Council of Victoria, Department of Primary Industries, and research fellow at Department of Food and Land Sciences (University of Melbourne), and post doctoral researcher with School of Biosciences  (University of Melbourne) and RMIT.
 
-My research interests include ecological statistics, analysis and modelling of large biological data and medical statistics. Modern statistical approaches for occupancy using partial, conditional and composite likelihoods along with GAMs. R software is available for these methods. And analysis of and developing models for large time series biological data, that includes functional analysis, HMMs and cylindrical distributions
+My research interests include ecological statistics, analysis and modelling of large biological data and medical statistics. Modern statistical approaches for occupancy using partial, conditional and composite likelihoods, and with GAMs. R software is available for selected methods. Analysis  and development of models for large time-series biological data, functional analysis, HMMs and models for cylindrical distributions.
 
 
 More information can be found in my 
