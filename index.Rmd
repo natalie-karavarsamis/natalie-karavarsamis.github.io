@@ -32,6 +32,18 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 
 ---
 
+**Announcements**
+
+Anyone who is interested in Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register for Research School on Statistics and Data Science 2019 (RSSDS2019), to be held at La Trobe, Melbourne, Australia, **24--26 July 2019**. 
+
+
+Deadline for abstract submissions before 31st May, 2019. Workshop proceedings published in **Spinger Communications in Computer and Information Science (CCIS)** volume. 
+
+Details here
+[Call for papers poster](Call_for_papers_poster.pdf)
+
+---
+
 Brief Bio
 
 I am a Lecturer in Statistics at La Trobe University. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I  worked in a number for statistical areas such as at the Cancer Council of Victoria, Department of Primary Industries, and research fellow at Department of Food and Land Sciences (University of Melbourne), and post doctoral researcher with School of Biosciences  (University of Melbourne) and RMIT.
