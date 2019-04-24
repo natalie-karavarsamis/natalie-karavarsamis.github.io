@@ -12,9 +12,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 ---
 
-Contact Details
-
-Dr Natalie Karavarsamis 
+**Dr Natalie Karavarsamis** 
 
 Lecturer <br>
 Department of Mathematics and Statistics <br>
@@ -44,7 +42,7 @@ Details here
 
 ---
 
-Brief Bio
+**Brief Bio**
 
 I am a Lecturer in Statistics at La Trobe University. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I  worked in a number for statistical areas such as at the Cancer Council of Victoria, Department of Primary Industries, and research fellow at Department of Food and Land Sciences (University of Melbourne), and post doctoral researcher with School of Biosciences  (University of Melbourne) and RMIT.
 
@@ -57,7 +55,7 @@ More information can be found in my
 
 ---
 
-Supervision 
+**Supervision** 
 
 PhD Statistics - Co-supervisor (2018-current) <br>
 Master of Statistics - Supervisor (2019) <br>
@@ -65,7 +63,7 @@ AMSI Summer Scholars - Supervisor, two scholars (2019)
 
 ---
 
-Grants & Awards (selected)
+**Grants & Awards** (selected)
 
 2018 Australian-French Association for Research and Innovation (AFRAN) 
 
@@ -73,7 +71,7 @@ Grants & Awards (selected)
 
 ---
 
-Press & Gallery
+**Press & Gallery**
 
 [Choose Maths, la Trobe](natalie-karavarsamis.github.io/CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
 
