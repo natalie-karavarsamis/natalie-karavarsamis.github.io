@@ -50,7 +50,7 @@ My research interests include ecological statistics, analysis and modelling of l
 
 
 More information can be found in my 
-[curriculum vitae](Karavarsamis-master-CV.pdf).
+[curriculum vitae](Karavarsamis_master_CV.pdf).
 
 
 ---
@@ -73,7 +73,7 @@ AMSI Summer Scholars - Supervisor, two scholars (2019)
 
 **Press & Gallery**
 
-[AMSI Choose Maths Day, La Trobe](natalie-karavarsamis.github.io/CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
+[AMSI Choose Maths Day, La Trobe](CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
 
 ---
 
