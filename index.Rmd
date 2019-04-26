@@ -35,7 +35,7 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 Anyone who is interested in Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register for Research School on Statistics and Data Science 2019 (RSSDS2019), to be held at La Trobe, Melbourne, Australia, **24--26 July 2019**. 
 
 
-Deadline for abstract submissions before 31st May, 2019. Workshop proceedings published in **Spinger Communications in Computer and Information Science (CCIS)** volume. 
+Deadline for abstract submissions before 31st May, 2019. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)** volume. 
 
 Details here
 [Call for papers poster](Call_for_papers_poster.pdf)
@@ -50,7 +50,7 @@ My research interests include ecological statistics, analysis and modelling of l
 
 
 More information can be found in my 
-[curriculum vitae](natalie-karavarsamis.github.io/main-2.pdf).
+[curriculum vitae](Karavarsamis-master-CV.pdf).
 
 
 ---
@@ -73,7 +73,7 @@ AMSI Summer Scholars - Supervisor, two scholars (2019)
 
 **Press & Gallery**
 
-[Choose Maths, la Trobe](natalie-karavarsamis.github.io/CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
+[AMSI Choose Maths Day, La Trobe](natalie-karavarsamis.github.io/CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
 
 ---
 
