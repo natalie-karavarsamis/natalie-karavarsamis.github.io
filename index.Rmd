@@ -30,19 +30,36 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 
 ---
 
-**Announcements**
+**Announcements** 
 
-Anyone who is interested in Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register for Research School on Statistics and Data Science 2019 (RSSDS2019), to be held at La Trobe, Melbourne, Australia, **24--26 July 2019**. I am one of  invited speakers.
+**2019**
 
-
+* **Registration and submissions now open** for Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia.  Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register.
 Deadline for abstract submissions before **31st May, 2019**. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)** volume. 
-
-Details here
-[Call for papers poster](Call_for_papers_poster.pdf)
+[Webpage]( https://sites.google.com/view/rssds2019/home) and 
+[poster](Call_for_papers_poster.pdf).
 
 ---
 
-**Brief Bio**
+**Events**
+
+**2019**
+
+* May 15, **Q&A panel discussion speaker** for celebrations of the first International Women in Mathematics Day, on 12 May in honour of the birthday of Maryam Mirzakhani, the first female Fields Medalist (the analogue of the Nobel Prize for mathematicians),
+[poster](WomenInMathsPublicLecture.pdf).
+
+* June 5, Speaker Joint Seminar, La Trobe University & Harvard University, La Trobe University.
+
+* June 19, Invited Speaker, Choose Maths Day, La Trobe University.
+
+* June 25-27, **EcoSta2019** Conference presentation. National Chung Hsing University, Taiwan. [Conference Webpage](http://cmstatistics.org/EcoSta2019/index.php).
+
+* July 24--26, **Invited Speaker**, Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia. [Webpage]( https://sites.google.com/view/rssds2019/home) and 
+[poster](Call_for_papers_poster.pdf). 
+
+---
+
+**Bio**
 
 I am Lecturer in Statistics at La Trobe University. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I  have prfessional statististician industry consulting experience prior to my academic career at several institutions, for example Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathmeatical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Techincail Sub-Editor to the Australian and New Zealand Journal of Statistics, and serve as reviewer for  internationl journals.
 
@@ -57,15 +74,16 @@ See details in my
 
 **Supervision** 
 
-PhD Statistics - Co-supervisor (2018-current) <br>
-Master of Statistics - Supervisor (2019) <br>
-AMSI Summer Scholars - Supervisor, two scholars (2019)
+Available for Honours, Masters and PhD.  
+* PhD Statistics - Co-supervisor (2018--) <br>
+* Master of Statistics - Supervisor (2019) <br>
+* AMSI Summer Scholars - Supervisor, two scholars (2019)
 
 ---
 
 **Grants & Awards** (selected)
 
-2016-present Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne.
+2016-- Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne.
 
 2018 Australian-French Association for Research and Innovation (AFRAN). 
 
@@ -73,7 +91,7 @@ AMSI Summer Scholars - Supervisor, two scholars (2019)
 
 **Press & Gallery**
 
-[AMSI Choose Maths Day, La Trobe](CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf)
+[2018 AMSI Choose Maths Day](CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf), La Trobe
 
 ---
 

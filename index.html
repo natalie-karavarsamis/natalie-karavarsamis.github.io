@@ -69,9 +69,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -96,22 +94,92 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -121,7 +189,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">Natalie Karavarsamis, PhD</h1>
-<h4 class="date"><em>26 April, 2019</em></h4>
+<h4 class="date">09 May, 2019</h4>
 
 </div>
 
@@ -134,24 +202,36 @@ $(document).ready(function () {
 <p>Technical sub-editor at the Australian and New Zealand Journal of Statistics and reviewer to several journals.</p>
 <hr />
 <p><strong>Announcements</strong></p>
-<p>Anyone who is interested in Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register for Research School on Statistics and Data Science 2019 (RSSDS2019), to be held at La Trobe, Melbourne, Australia, <strong>24–26 July 2019</strong>. I am one of invited speakers.</p>
-<p>Deadline for abstract submissions before <strong>31st May, 2019</strong>. Workshop proceedings published in <strong>Springer Communications in Computer and Information Science (CCIS)</strong> volume.</p>
-<p>Details here <a href="Call_for_papers_poster.pdf">Call for papers poster</a></p>
+<p><strong>2019</strong></p>
+<ul>
+<li><strong>Registration and submissions now open</strong> for Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia. Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register. Deadline for abstract submissions before <strong>31st May, 2019</strong>. Workshop proceedings published in <strong>Springer Communications in Computer and Information Science (CCIS)</strong> volume. <a href="https://sites.google.com/view/rssds2019/home">Webpage</a> and <a href="Call_for_papers_poster.pdf">poster</a>.</li>
+</ul>
 <hr />
-<p><strong>Brief Bio</strong></p>
+<p><strong>Events</strong></p>
+<p><strong>2019</strong></p>
+<ul>
+<li><p>May 15, <strong>Q&amp;A panel discussion speaker</strong> for celebrations of the first International Women in Mathematics Day, on 12 May in honour of the birthday of Maryam Mirzakhani, the first female Fields Medalist (the analogue of the Nobel Prize for mathematicians), <a href="WomenInMathsPublicLecture.pdf">poster</a>.</p></li>
+<li><p>June 5, Speaker Joint Seminar, La Trobe University &amp; Harvard University, La Trobe University.</p></li>
+<li><p>June 19, Invited Speaker, Choose Maths Day, La Trobe University.</p></li>
+<li><p>June 25-27, <strong>EcoSta2019</strong> Conference presentation. National Chung Hsing University, Taiwan. <a href="http://cmstatistics.org/EcoSta2019/index.php">Conference Webpage</a>.</p></li>
+<li><p>July 24–26, <strong>Invited Speaker</strong>, Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia. <a href="https://sites.google.com/view/rssds2019/home">Webpage</a> and <a href="Call_for_papers_poster.pdf">poster</a>.</p></li>
+</ul>
+<hr />
+<p><strong>Bio</strong></p>
 <p>I am Lecturer in Statistics at La Trobe University. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. I have prfessional statististician industry consulting experience prior to my academic career at several institutions, for example Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathmeatical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Techincail Sub-Editor to the Australian and New Zealand Journal of Statistics, and serve as reviewer for internationl journals.</p>
 <p>Research collaborations include Harvard University (USA), University of Caen (France), La Trobe University (Australia) and University of Melbourne (Australia). Research interests include ecological statistics, analysis and modelling of large biological data and medical statistics. Modern statistical approaches for occupancy using partial, conditional and composite likelihoods, and with GAMs. R software is available for selected methods. Analysis and development of models for large time-series biological data, functional analysis, HMMs and models for cylindrical distributions. With applications in neuroscience in collaboration with Harvard University.</p>
 <p>See details in my <a href="Karavarsamis_master_CV.pdf">CV</a>.</p>
 <hr />
 <p><strong>Supervision</strong></p>
-<p>PhD Statistics - Co-supervisor (2018-current) <br> Master of Statistics - Supervisor (2019) <br> AMSI Summer Scholars - Supervisor, two scholars (2019)</p>
+<p>Available for Honours, Masters and PhD.<br />
+* PhD Statistics - Co-supervisor (2018–) <br> * Master of Statistics - Supervisor (2019) <br> * AMSI Summer Scholars - Supervisor, two scholars (2019)</p>
 <hr />
 <p><strong>Grants &amp; Awards</strong> (selected)</p>
-<p>2016-present Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne.</p>
+<p>2016– Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne.</p>
 <p>2018 Australian-French Association for Research and Innovation (AFRAN).</p>
 <hr />
 <p><strong>Press &amp; Gallery</strong></p>
-<p><a href="CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf">AMSI Choose Maths Day, La Trobe</a></p>
+<p><a href="CHOOSEMATHS_comes_to_La_Trobe-Intranet.pdf">2018 AMSI Choose Maths Day</a>, La Trobe</p>
 <hr />
 
 
