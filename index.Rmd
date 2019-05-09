@@ -14,17 +14,18 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 **Dr Natalie Karavarsamis** 
 
+
+`r icon::fa("twitter")`  @nataliekarav `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au `r icon::fa("envelope")` nkarav@unimelb.edu.au
+
 Lecturer <br>
 Department of Mathematics and Statistics <br>
 La Trobe University <br>
 Melbourne, Victoria, Australia <br>
-Email: n.karavarsamis@latrobe.edu.au <br> 
 
 Honorary Fellow <br>
 School of Mathematics and Statistics <br>
 University of Melbourne <br>
 Victoria, Australia <br>
-Email: nkarav@unimelb.edu.au
 
 Technical sub-editor at the Australian and New Zealand Journal of Statistics and reviewer to several journals. 
 
