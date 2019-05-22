@@ -36,7 +36,7 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 **2019**
 
 * **Registration and submissions now open** for Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia.  Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register.
-Deadline for abstract submissions before **31st May, 2019**. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)** volume. 
+**Deadline** for abstract submissions before **31st May, 2019**. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)** volume. 
 [Webpage]( https://sites.google.com/view/rssds2019/home) and 
 [poster](Call_for_papers_poster.pdf).
 
@@ -46,17 +46,20 @@ Deadline for abstract submissions before **31st May, 2019**. Workshop proceeding
 
 **2019**
 
+* July 24--26, **Invited Speaker**, Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia. [Webpage]( https://sites.google.com/view/rssds2019/home) and 
+[poster](Call_for_papers_poster.pdf). 
+
+* June 25-27, **Speaker**, **EcoSta2019** Conference. National Chung Hsing University, Taiwan. [Conference Webpage](http://cmstatistics.org/EcoSta2019/index.php).
+
+* June 20, **Invited Speaker**, RMIT Seminar Series.
+
+* June 19, **Invited Speaker**, Choose Maths Day, La Trobe University.
+
+* June 5, **Speaker Joint Seminar**, La Trobe University & Harvard University, La Trobe University.
+
 * May 15, **Q&A panel discussion speaker** for celebrations of the first International Women in Mathematics Day, on 12 May in honour of the birthday of Maryam Mirzakhani, the first female Fields Medalist (the analogue of the Nobel Prize for mathematicians),
 [poster](WomenInMathsPublicLecture.pdf).
 
-* June 5, Speaker Joint Seminar, La Trobe University & Harvard University, La Trobe University.
-
-* June 19, Invited Speaker, Choose Maths Day, La Trobe University.
-
-* June 25-27, **EcoSta2019** Conference presentation. National Chung Hsing University, Taiwan. [Conference Webpage](http://cmstatistics.org/EcoSta2019/index.php).
-
-* July 24--26, **Invited Speaker**, Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia. [Webpage]( https://sites.google.com/view/rssds2019/home) and 
-[poster](Call_for_papers_poster.pdf). 
 
 ---
 
