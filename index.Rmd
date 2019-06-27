@@ -35,10 +35,12 @@ Technical sub-editor at the Australian and New Zealand Journal of Statistics and
 
 **2019**
 
-* **Registration and submissions now open** for Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia.  Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register.
-**Deadline** for abstract submissions before **31st May, 2019**. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)** volume. 
+* **Registration and submissions now open** for Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia, **July 24--26**.  Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register.
+**Deadline** for abstract submissions before **30 June, 2019**. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)** volume. 
 [Webpage]( https://sites.google.com/view/rssds2019/home) and 
 [poster](Call_for_papers_poster.pdf).
+
+* International Statistical Ecology Conference, ISEC2020 , UNSW, Sydney, Australia **June 22--26, 2020** http://www.isec2020.org
 
 ---
 
@@ -81,7 +83,6 @@ See details in my
 
 Available for Honours, Masters and PhD.  
 * PhD Statistics - Co-supervisor (2018--) <br>
-* Master of Statistics - Supervisor (2019) <br>
 * AMSI Summer Scholars - Supervisor, two scholars (2019)
 
 ---
