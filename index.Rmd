@@ -70,15 +70,17 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 ---
 
-**Seminars**
+**Slides from Conferences, Workshops, Seminars (selected)**
 
-* RSSDS2019 July 24-26 [(slides)](RSSDS-workshop-2019.pdf)
+* [RSSDS2019 July 24-26 slides](RSSDS-workshop-2019.pdf)
+
+* Kyushu and La Trobe seminar series
 
 ---
 
 **Bio**
 
-I am Lecturer in Statistics at La Trobe University. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. In addition, I have professional statistician and industry consulting experience at several institutions, including, Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Technical Sub-Editor to the Australian and New Zealand Journal of Statistics, and serve as reviewer for international peer-reviewed journals.
+I am academic researcher, and lecturer in Statistics at La Trobe University, and Honorary Fellow at School of Mathematics and Statistics, University of Melbourne. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. In addition, I have professional statistician and industry consulting experience at several institutions, including, Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Technical Sub-Editor to the Australian and New Zealand Journal of Statistics, reviewer for international peer-reviewed journals and LOC for ISEC2020 (see link above).
 
 Research collaborations include Harvard University (USA), University of Caen (France), La Trobe University (Australia) and University of Melbourne (Australia). Research interests include ecological statistics, analysis and modelling of large biological data and medical statistics. Modern statistical approaches for occupancy using partial, conditional and composite likelihoods, and with GAMs. R software is available for selected methods. Analysis and development of models for large time-series biological data, functional analysis, HMMs and models for cylindrical distributions. With applications in neuroscience in collaboration with Harvard University.
 
