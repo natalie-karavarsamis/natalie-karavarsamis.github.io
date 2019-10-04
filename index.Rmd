@@ -29,10 +29,9 @@ Victoria, Australia <br>
 
 Technical sub-editor at the Australian and New Zealand Journal of Statistics and reviewer to several journals. 
 
-LOC ISEC2020 http://www.isec2020.org 
+Local Organising Committee Member ISEC2020 http://www.isec2020.org 
 
-Details in my 
-[CV](Karavarsamis_master_CV.pdf).
+[Curriculum Vitae](Karavarsamis_master_CV.pdf).
 
 ---
 
@@ -49,32 +48,41 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 ---
 
-**Events**
+**My events, Seminars, Workshops, Conference presentations**
 
 **2019**
 
-* October 3, **Invited Speaker**, RMIT Seminar Series ([slides here](RMIT-Karavarsamis-2019.pdf))
+* November, Invoted Speaker, Department of NeuroScience and Boston Childeren's Hospital, **Harvard University**, USA
 
-* July 24--26, **Invited Speaker**, Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia ([webpage]( https://sites.google.com/view/rssds2019/home) and 
-[poster](Call_for_papers_poster.pdf)) 
+* November, Invited Speaker, **INRIA Statistics Seminar Series**, Grenoble, France 
 
-* June 25-27, **Speaker**, **EcoSta2019** Conference. National Chung Hsing University, Taiwan ([conference webpage](http://cmstatistics.org/EcoSta2019/index.php))
+* October 18, Invited Speaker, **Monash Seminar Series**, Monash University, Melbourne, Australia 
 
-* June 19, **Invited Speaker**, Choose Maths Day, La Trobe University
+* October 3, Invited Speaker, **RMIT Data Analystics Seminar Series** ([slides here](RMIT-Karavarsamis-2019.pdf))
 
-* June 5, **Speaker Joint Seminar**, La Trobe University & Harvard University, La Trobe University
+* October 7, Invited Speaker, **Subject Selection Fair 2019**, La Trobe Unviersity, Melbourne University
 
-* May 15, **Q&A panel discussion speaker** for celebrations for the inaugural International Women in Mathematics Day, in honour of the birthday of Maryam Mirzakhani on 12 May, the first female Fields Medalist
+* August 29, **Women in Maths Day**, University of Melbourne, Melbourne, Australia 
+
+* July 24--26, Invited Speaker, **Workshop for Research School on Statistics and Data Science 2019 - RSSDS2019**, La Trobe University, Melbourne, Australia ([webpage]( https://sites.google.com/view/rssds2019/home) and 
+([poster](Call_for_papers_poster.pdf)) ([slides here](RSSDS-workshop-2019.pdf))
+
+* June 25-27, Conference Presentation, **EcoSta2019** Conference. National Chung Hsing University, Taiwan ([conference webpage](http://cmstatistics.org/EcoSta2019/index.php))
+
+* June 19, Invited Speaker, **AMSI Choose Maths Day**, La Trobe University, Melbourne, Australia
+
+* June 5, Speaker Joint Seminar, **Special seminar joint La Trobe University & Harvard University**, La Trobe University, Melbourne, Australia
+
+* May 15, Q&A panel discussion speaker for celebrations for the inaugural **International Women in Mathematics Day**, in honour of the birthday of Maryam Mirzakhani on 12 May, the first female Fields Medalist
 ([poster](WomenInMathsPublicLecture.pdf))
 
 
----
+**2018 and earlier**
 
-**Slides from Conferences, Workshops, Seminars (selected)**
+* July 4-6 2018, Conference Presentation, **ISEC 2018**, St Andrews University, Scotland ([slides here](thu-c-2-karavarsamis-2348.pdf))
 
-* [RSSDS2019 July 24-26 slides](RSSDS-workshop-2019.pdf)
+* July 24 2018, Invited Speaker, **La Trobe -- Kyushu joint seminar series**, La Trobe University, Melbourne, Australia and Kyushu University, Japan (via zoom) ([slides here](Score-Test-2018_Presentation_Kyushu.pdf))
 
-* Kyushu and La Trobe seminar series
 
 ---
 
