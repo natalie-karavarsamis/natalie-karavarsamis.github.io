@@ -17,7 +17,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 `r icon::fa("twitter")`  @nataliekarav `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au `r icon::fa("envelope")` nkarav@unimelb.edu.au
 
-Lecturer, Researcher <br>
+Data Scientist, Researcher, Lecturer  <br>
 Department of Mathematics and Statistics <br>
 La Trobe University <br>
 Melbourne, Victoria, Australia <br>
