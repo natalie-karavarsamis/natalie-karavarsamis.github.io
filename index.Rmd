@@ -12,32 +12,40 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 ---
 
-**Dr Natalie Karavarsamis** 
+**Dr Natalie Karavarsamis** <br>
+Data Scientist, Researcher, Lecturer, Consultant
 
+`r icon::fa("twitter")`  @nataliekarav <br>
+`r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au <br>
+`r icon::fa("envelope")` nkarav@unimelb.edu.au
 
-`r icon::fa("twitter")`  @nataliekarav `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au `r icon::fa("envelope")` nkarav@unimelb.edu.au
-
-Data Scientist, Researcher, Lecturer  <br>
+Lecturer  <br>
 Department of Mathematics and Statistics <br>
 La Trobe University <br>
 Melbourne, Victoria, Australia <br>
 
-Honorary Fellow <br>
+Honorary Research Fellow <br>
 School of Mathematics and Statistics <br>
 University of Melbourne <br>
 Victoria, Australia <br>
 
-Technical sub-editor at the Australian and New Zealand Journal of Statistics and reviewer to several journals. 
-
-Local Organising Committee Member ISEC2020 http://www.isec2020.org 
 
 [Curriculum Vitae](Karavarsamis_master_CV.pdf).
 
 ---
 
+**Roles**
+
+* Honorary Research Fellow at University of Melbourne, Australia (2016-Present).
+* Lecturer at La Trobe University, Melbourne, Australia (2018-Present).
+* Technical sub-editor at the Australian and New Zealand Journal of Statistics and reviewer to several journals (2018-Present). 
+* Local Organising Committee Member ISEC2020 (2019-Present) http://www.isec2020.org 
+
+---
+
 **Announcements** 
 
-* International Statistical Ecology Conference, ISEC2020 , UNSW, Sydney, Australia **June 22--26, 2020** http://www.isec2020.org <br> **Abstracts Now Open** due December 2nd 2019 (5pm GMT)
+* International Statistical Ecology Conference, ISEC2020 , UNSW, Sydney, Australia **June 22--26, 2020** http://www.isec2020.org <br> **Registratin Now Open** 
 
 
 * Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia, **July 24--26, 2019**.  Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register.
@@ -48,7 +56,7 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 ---
 
-**My events, Seminars, Workshops, Conference presentations**
+**My Events**
 
 **2019**
 
@@ -86,9 +94,11 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 ---
 
-**Bio**
+**Brief Bio**
 
-I am academic researcher, and lecturer in Statistics at La Trobe University, and Honorary Fellow at School of Mathematics and Statistics, University of Melbourne. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. In addition, I have professional statistician and industry consulting experience at several institutions, including, Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Technical Sub-Editor to the Australian and New Zealand Journal of Statistics, reviewer for international peer-reviewed journals and LOC for ISEC2020 (see link above).
+I am an academic researcher and lecturer at La Trobe University, and Honorary Fellow at School of Mathematics and Statistics, University of Melbourne. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. <br>
+I have extensive industry and consulting experience at several institutions, including, the Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). <br>
+Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Technical Sub-Editor to the Australian and New Zealand Journal of Statistics, reviewer for international peer-reviewed journals and LOC for ISEC2020 (see link above).
 
 Research collaborations include Harvard University (USA), University of Caen (France), La Trobe University (Australia) and University of Melbourne (Australia). Research interests include ecological statistics, analysis and modelling of large biological data and medical statistics. Modern statistical approaches for occupancy using partial, conditional and composite likelihoods, and with GAMs. R software is available for selected methods. Analysis and development of models for large time-series biological data, functional analysis, HMMs and models for cylindrical distributions. With applications in neuroscience in collaboration with Harvard University.
 
