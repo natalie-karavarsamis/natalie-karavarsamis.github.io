@@ -13,11 +13,13 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 **Dr Natalie Karavarsamis** <br>
-Data Scientist, Researcher, Lecturer, Consultant
+Data Scientist, Academic Researcher, Lecturer, Consultant
 
 `r icon::fa("twitter")`  @nataliekarav <br>
 `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au <br>
 `r icon::fa("envelope")` nkarav@unimelb.edu.au
+
+Curriculum Vitae: [Link here to download](Karavarsamis_master_CV.pdf).
 
 Lecturer  <br>
 Department of Mathematics and Statistics <br>
@@ -30,7 +32,6 @@ University of Melbourne <br>
 Victoria, Australia <br>
 
 
-[Curriculum Vitae](Karavarsamis_master_CV.pdf).
 
 ---
 
