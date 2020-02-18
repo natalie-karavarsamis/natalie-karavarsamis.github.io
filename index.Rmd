@@ -96,11 +96,19 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 **Brief Bio**
 
-I am an academic researcher and lecturer at La Trobe University, and Honorary Fellow at School of Mathematics and Statistics, University of Melbourne. I obtained my PhD in Statistics from the Department of Mathematics and Statistics, University of Melbourne. <br>
-I have extensive industry and consulting experience at several institutions, including, the Cancer Council of Victoria, Department of Primary Industries, School of Medicine (University of Crete, Greece). <br>
-Academic posts include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow with School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). Current roles include Technical Sub-Editor to the Australian and New Zealand Journal of Statistics, reviewer for international peer-reviewed journals and LOC for ISEC2020 (see link above).
+I am an academic researcher, data scientist, lecturer and consultant. My current roles are: Lecturer in Statistics and Data Science at Department of Mathematics and Statistics, La Trobe University; Honorary Research Fellow at School of Mathematics and Statistics, University of Melbourne; Technical sub-editor at the Australian and New Zealand Journal of Statistics; Reviewer on several international journals; Local Science Organising Committee for ISEC-2020. <br>
+I obtained my PhD in Statistics from the School of Mathematics and Statistics, University of Melbourne.
 
-Research collaborations include Harvard University (USA), University of Caen (France), La Trobe University (Australia) and University of Melbourne (Australia). Research interests include ecological statistics, analysis and modelling of large biological data and medical statistics. Modern statistical approaches for occupancy using partial, conditional and composite likelihoods, and with GAMs. R software is available for selected methods. Analysis and development of models for large time-series biological data, functional analysis, HMMs and models for cylindrical distributions. With applications in neuroscience in collaboration with Harvard University.
+I have extensive industry and consulting experience, for example, Biostatistician and consultant at Centre of Epidemiology at the Cancer Council of Victoria, Biometrician and consultant at Department of Primary Industries, Statistician at School of Medicine (University of Crete, Greece). 
+
+Previous academic roles comprise Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). 
+
+Current research collaborators are Boston Children’s Hospital at Harvard University (USA), Statify at INRIA University of Caen (France), La Trobe University (Australia) and University of Melbourne (Australia).
+
+My research interests include statistical ecology, analysis and modelling of large biological data, genetic data, medical statistics, finance, and others.
+
+I develop methods, models and software for modern statistical approaches for occupancy data using partial, conditional and composite likelihoods, GLMs and GAMs, IWLS. My R software is available for selected methods. <br>
+As well, analysis and development of models for large time-series biological data, using  functional analysis, machine learning, data mining, HMMs and models for cylindrical distributions. With applications in epilepsy neuroscience and neuroepigenetic research at Harvard University.
 
 
 ---
