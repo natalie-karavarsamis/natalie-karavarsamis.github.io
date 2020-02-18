@@ -19,7 +19,7 @@ Data Scientist, Academic Researcher, Lecturer, Consultant
 `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au <br>
 `r icon::fa("envelope")` nkarav@unimelb.edu.au
 
-Curriculum Vitae: [Link here to download](Karavarsamis_master_CV.pdf).
+Curriculum Vitae: [Link for download](Karavarsamis_master_CV.pdf).
 
 Lecturer  <br>
 Department of Mathematics and Statistics <br>
