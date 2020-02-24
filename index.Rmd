@@ -3,7 +3,6 @@ title: "Natalie Karavarsamis, PhD"
 output: 
   html_document:
       theme: spacelab
-date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 <img src= "https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/blob/master/Staff_pic.png?raw=true" style="width: 200px;"/>
@@ -39,7 +38,8 @@ Victoria, Australia <br>
 
 * Honorary Research Fellow at University of Melbourne, Australia (2016-Present).
 * Lecturer at La Trobe University, Melbourne, Australia (2018-Present).
-* Technical sub-editor at the Australian and New Zealand Journal of Statistics and reviewer to several journals (2018-Present). 
+* Technical sub-editor at the Australian and New Zealand Journal of Statistics (2018-Present) 
+* Reviewer to several international peer-reviewed journals (2018-Present). 
 * Local Organising Committee Member ISEC2020 (2019-Present) http://www.isec2020.org 
 
 ---
@@ -97,36 +97,41 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 **Brief Bio**
 
-I am an academic researcher, data scientist, lecturer and consultant. My current roles are: Lecturer in Statistics and Data Science at Department of Mathematics and Statistics, La Trobe University; Honorary Research Fellow at School of Mathematics and Statistics, University of Melbourne; Technical sub-editor at the Australian and New Zealand Journal of Statistics; Reviewer on several international journals; Local Science Organising Committee for ISEC-2020. <br>
-I obtained my PhD in Statistics from the School of Mathematics and Statistics, University of Melbourne.
+Dr Natalie Karavarsamis is an experienced statistics researcher, data scientist, coder/programmer, lecturer and consultant. Currently Natalie is employed as Lecturer of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals. Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
 
-I have extensive industry and consulting experience, for example, Biostatistician and consultant at Centre of Epidemiology at the Cancer Council of Victoria, Biometrician and consultant at Department of Primary Industries, Statistician at School of Medicine (University of Crete, Greece). 
+Previous academic roles comprise Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD candidature) (University of Melbourne).
 
-Previous academic roles comprise Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD) (University of Melbourne). 
+Natalie’s research expertise is in statistical ecology, and in analysing and modelling large longitudinal biological data, genetic data, neuroscience and neuroepigenetic data, medical statistics and financial data. 
 
-Current research collaborators are Boston Children’s Hospital at Harvard University (USA), Statify at INRIA University of Caen (France), La Trobe University (Australia) and University of Melbourne (Australia).
+Natalie is a world leader at developing methods, models and software with modern statistical approaches. For example, for occupancy data with partial likelihoods, conditional and composite likelihoods, GLMs, Gams, IWLS. As well circular statistics, cylindrical distributions and HMMs for large biological data. Natalie has developed R software; her two-stage package for modelling occupancy data (in release). 
 
-My research interests include statistical ecology, analysis and modelling of large biological data, genetic data, medical statistics, finance, and others.
+Natalie has forged global collaborations with Boston Children’s Hospital and Department of Neuroscience at Harvard University (USA), with Statify at INRIA University of Caen (France), and with the School of Biosciences at University of Melbourne, the University of Kent, and La Trobe University. 
 
-I develop methods, models and software for modern statistical approaches for occupancy data using partial, conditional and composite likelihoods, GLMs and GAMs, IWLS. My R software is available for selected methods. <br>
-As well, analysis and development of models for large time-series biological data, using  functional analysis, machine learning, data mining, HMMs and models for cylindrical distributions. With applications in epilepsy neuroscience and neuroepigenetic research at Harvard University.
+Natalie has twenty years industry statistical consulting experience and worked on large international industry projects for NGOs, national and international governments, and commercial industries and stakeholders ([details in CV](Karavarsamis_master_CV.pdf)). 
+
+Natalie’s extensive publication record spans her career as a research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_master_CV.pdf)). Natalie has taught statistics for more than two decades, at tertiary (undergraduate and postgraduate) and professional levels ([details in CV](Karavarsamis_master_CV.pdf)). Currently, Natalie co-supervises two PhD candidates in Statistics, and has trained and supervised research assistants and supervises AMSI scholars.
 
 
 ---
 
 **Supervision** 
 
-Available for Honours, Masters and PhD.  
-* PhD Statistics - Co-supervisor (2018--) <br>
-* AMSI Summer Scholars - Supervisor, two scholars (2019)
+Current Supervision
+
+* Two PhD candidates - Co-supervisor (2018--Present and 2020--Present) <br>
+* Two AMSI Summer Scholars - Supervisor (2019)
+
+Available for Honours, Masters and PhD supervision.
 
 ---
 
 **Grants & Awards** (selected)
 
-2018 Australian-French Association for Research and Innovation (AFRAN). 
+* Statify (previously MISTIS) invited academic travel abroad fund (2019).
 
-2016-- Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne.
+* Australian-French Association for Research and Innovation (AFRAN) (2018--Present). 
+
+* Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne (2016--Present).
 
 
 ---
