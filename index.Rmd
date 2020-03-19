@@ -3,6 +3,7 @@ title: "Natalie Karavarsamis, PhD"
 output: 
   html_document:
       theme: spacelab
+date: "`r format(Sys.time(), '%d %B, %Y')`"      
 ---
 
 <img src= "https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/blob/master/Staff_pic.png?raw=true" style="width: 200px;"/>
@@ -22,7 +23,7 @@ Statistical Consultant, Data Scientist, and Programmer
 Orcid: [orcid.org/0000-0002-5920-9736](https://orcid.org/0000-0002-5920-9736) <br>
 [Natalie on ResearcGate](https://www.researchgate.net/profile/Natalie_Karavarsamis)
 
-Curriculum Vitae: [Link for download](Karavarsamis_master_CV.pdf).
+Curriculum Vitae (CV): [click here for download](Karavarsamis_master_CV.pdf).
 
 Lecturer  <br>
 Department of Mathematics and Statistics <br>
