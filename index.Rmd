@@ -12,7 +12,9 @@ output:
 ---
 
 **Dr Natalie Karavarsamis** <br>
-Data Scientist, Academic Researcher, Lecturer, Consultant
+Lecturer and Academic Researcher <br>
+Statistical Consultant, Data Scientist, and Programmer
+
 
 `r icon::fa("twitter")`  @nataliekarav <br>
 `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au <br>
