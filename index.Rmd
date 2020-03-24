@@ -13,8 +13,8 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 **Dr Natalie Karavarsamis** <br>
-Lecturer and Academic Researcher <br>
-Statistical Consultant, Data Scientist, and Programmer
+Research Data Scientist, Lecturer, <br>
+Statistical Consultant, Programmer
 
 
 `r icon::fa("twitter")`  @nataliekarav <br>
