@@ -93,9 +93,12 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 **2018 and earlier**
 
-* July 4-6 2018, Conference Presentation, **ISEC 2018**, St Andrews University, Scotland ([slides here](thu-c-2-karavarsamis-2348.pdf))
+* December 2018, Chair - Statistics Session, AMSI Summer Scholar Conference, Melbourne University
 
 * July 24 2018, Invited Speaker, **La Trobe -- Kyushu joint seminar series**, La Trobe University, Melbourne, Australia and Kyushu University, Japan (via zoom) ([slides here](Score-Test-2018_Presentation_Kyushu.pdf))
+
+* July 4-6 2018, Conference Presentation, **ISEC 2018**, St Andrews University, Scotland ([slides here](thu-c-2-karavarsamis-2348.pdf))
+
 
 
 ---
