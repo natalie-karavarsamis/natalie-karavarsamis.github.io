@@ -14,7 +14,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 **Dr Natalie Karavarsamis** <br>
 Research Data Scientist, Lecturer, <br>
-Statistical Consultant, Programmer
+Professional Statistical Consultant, Programmer
 
 
 `r icon::fa("twitter")`  @nataliekarav <br>
