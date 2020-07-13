@@ -103,7 +103,7 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 ---
 
-**Brief Bio**
+**Overview**
 
 Dr Natalie Karavarsamis is an experienced statistics researcher, data scientist, coder/programmer, lecturer and consultant. Currently Natalie is employed as Lecturer of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals. Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
 
