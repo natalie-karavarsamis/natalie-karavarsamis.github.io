@@ -39,7 +39,7 @@ Victoria, Australia <br>
 
 ---
 
-**Roles**
+**Academic Roles**
 
 * Honorary Research Fellow at University of Melbourne, Australia (2016-Present).
 * Lecturer at La Trobe University, Melbourne, Australia (2018-Present).
@@ -47,22 +47,28 @@ Victoria, Australia <br>
 * Reviewer to several international peer-reviewed journals (2018-Present). 
 * Local Organising Committee Member ISEC2020 (2019-Present) http://www.isec2020.org 
 
----
-
-**Announcements** 
-
-* International Statistical Ecology Conference, ISEC2020 , UNSW, Sydney, Australia **June 22--26, 2020** http://www.isec2020.org <br> **Registratin Now Open** 
-
-
-* Workshop for Research School on Statistics and Data Science 2019 (RSSDS2019), La Trobe, Melbourne, Australia, **July 24--26, 2019**.  Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register.
-Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)**. 
-[Webpage]( https://sites.google.com/view/rssds2019/home) and 
-[poster](Call_for_papers_poster.pdf).
-
 
 ---
 
-**My Events**
+**Overview**
+
+Dr Natalie Karavarsamis is an experienced statistics researcher, data scientist, coder/programmer, lecturer and consultant. Currently Natalie is employed as Lecturer of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals. Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
+
+Previous academic roles comprise Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD candidature) (University of Melbourne).
+
+Natalie’s research expertise is in statistical ecology, and in analysing and modelling large longitudinal biological data, genetic data, neuroscience and neuroepigenetic data, medical statistics and financial data. 
+
+Natalie is a world leader at developing methods, models and software with modern statistical approaches. For example, for occupancy data with partial likelihoods, conditional and composite likelihoods, GLMs, Gams, IWLS. As well circular statistics, cylindrical distributions and HMMs for large biological data. Natalie has developed R software; her two-stage package for modelling occupancy data (in release). 
+
+Natalie has forged global collaborations with Boston Children’s Hospital and Department of Neuroscience at Harvard University (USA), with Statify at INRIA University of Caen (France), and with the School of Biosciences at University of Melbourne, the University of Kent, and La Trobe University. 
+
+Natalie has twenty years industry statistical consulting experience and worked on large international industry projects for NGOs, national and international governments, and commercial industries and stakeholders ([details in CV](Karavarsamis_master_CV.pdf)). 
+
+Natalie’s extensive publication record spans her career as a research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_master_CV.pdf)). Natalie has taught statistics for more than two decades, at tertiary (undergraduate and postgraduate) and professional levels ([details in CV](Karavarsamis_master_CV.pdf)). Currently, Natalie co-supervises two PhD candidates in Statistics, and has trained and supervised research assistants and supervises AMSI scholars.
+
+---
+
+**Events**
 
 * June 22--26, 2020. Local organising committe member and accepted speaker. International Statistical Ecology Conference, ISEC2020 , UNSW, Sydney, Australia http://www.isec2020.org
 
@@ -89,36 +95,21 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 * May 15, 2019. Q&A panel discussion speaker for celebrations for the inaugural **International Women in Mathematics Day**, in honour of the birthday of Maryam Mirzakhani on 12 May, the first female Fields Medalist
 ([poster](WomenInMathsPublicLecture.pdf))
 
-* December 2018. Chair - Statistics Session, AMSI Summer Scholar Conference, Melbourne University
+* December 2018. Chair - Statistics Session, AMSI Summer Scholar Conference, University of Melbourne.
 
-* December 2018. Invited Speaker, AMSI Summer Scholar Conference, Melbourne University
+* December 2018. Invited Speaker, AMSI Summer Scholar Conference, University of Melbourne. 
 
-* November 2018. Supervisor, AMSI Summer Scholar Conference, Melbourne University
+* November 2018. Supervisor, AMSI Summer Scholar Conference, University of Melbourne.
 
 * July 24 2018. Invited Speaker, **La Trobe -- Kyushu joint seminar series**, La Trobe University, Melbourne, Australia and Kyushu University, Japan (via zoom) ([slides here](Score-Test-2018_Presentation_Kyushu.pdf))
 
 * July 4-6 2018. Conference Presentation, **ISEC 2018**, St Andrews University, Scotland ([slides here](thu-c-2-karavarsamis-2348.pdf))
 
-
-
 ---
 
-**Overview**
+**Publications**
 
-Dr Natalie Karavarsamis is an experienced statistics researcher, data scientist, coder/programmer, lecturer and consultant. Currently Natalie is employed as Lecturer of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals. Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
-
-Previous academic roles comprise Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD candidature) (University of Melbourne).
-
-Natalie’s research expertise is in statistical ecology, and in analysing and modelling large longitudinal biological data, genetic data, neuroscience and neuroepigenetic data, medical statistics and financial data. 
-
-Natalie is a world leader at developing methods, models and software with modern statistical approaches. For example, for occupancy data with partial likelihoods, conditional and composite likelihoods, GLMs, Gams, IWLS. As well circular statistics, cylindrical distributions and HMMs for large biological data. Natalie has developed R software; her two-stage package for modelling occupancy data (in release). 
-
-Natalie has forged global collaborations with Boston Children’s Hospital and Department of Neuroscience at Harvard University (USA), with Statify at INRIA University of Caen (France), and with the School of Biosciences at University of Melbourne, the University of Kent, and La Trobe University. 
-
-Natalie has twenty years industry statistical consulting experience and worked on large international industry projects for NGOs, national and international governments, and commercial industries and stakeholders ([details in CV](Karavarsamis_master_CV.pdf)). 
-
-Natalie’s extensive publication record spans her career as a research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_master_CV.pdf)). Natalie has taught statistics for more than two decades, at tertiary (undergraduate and postgraduate) and professional levels ([details in CV](Karavarsamis_master_CV.pdf)). Currently, Natalie co-supervises two PhD candidates in Statistics, and has trained and supervised research assistants and supervises AMSI scholars.
-
+Publications listed in my CV -- [click here to download](Karavarsamis_master_CV.pdf)
 
 ---
 
