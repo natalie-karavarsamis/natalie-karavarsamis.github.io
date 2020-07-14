@@ -13,7 +13,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 **Dr Natalie Karavarsamis** <br>
-Research Data Scientist, Lecturer, <br>
+Academic, Research Data Scientist, Lecturer, <br>
 Professional Statistical Consultant, Programmer
 
 
