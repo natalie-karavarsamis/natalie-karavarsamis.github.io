@@ -64,40 +64,40 @@ Workshop proceedings published in **Springer Communications in Computer and Info
 
 **My Events**
 
-**2019**
+* June 22--26, 2020. Local organising committe member and accepted speaker. International Statistical Ecology Conference, ISEC2020 , UNSW, Sydney, Australia **** http://www.isec2020.org
 
-* November, Invited Speaker, Department of Neuroscience and Boston Children's Hospital, **Harvard University**, USA
+* November 2019. Invited Speaker, Department of Neuroscience and Boston Children's Hospital, **Harvard University**, USA
 
-* November, Invited Speaker, **INRIA Statistics Seminar Series**, Grenoble, France 
+* November 2019. Invited Speaker, **INRIA Statistics Seminar Series**, Grenoble, France 
 
-* October 18, Invited Speaker, **Monash Seminar Series**, Monash University, Melbourne, Australia 
+* October 18, 2019. Invited Speaker, **Monash Seminar Series**, Monash University, Melbourne, Australia 
 
-* October 3, Invited Speaker, **RMIT Data Analystics Seminar Series** ([slides here](RMIT-Karavarsamis-2019.pdf))
+* October 3, 2019. Invited Speaker, **RMIT Data Analystics Seminar Series** ([slides here](RMIT-Karavarsamis-2019.pdf))
 
-* October 7, Invited Speaker, **Subject Selection Fair 2019**, La Trobe University, Melbourne, Australia
+* October 7, 2019. Invited Speaker, **Subject Selection Fair 2019**, La Trobe University, Melbourne, Australia
 
-* August 29, **Women in Maths Day**, University of Melbourne, Melbourne, Australia 
+* August 29, 2019. Organising committee member and Invited Speaker. **Women in Maths Day**, University of Melbourne, Melbourne, Australia 
 
-* July 24--26, Invited Speaker, **Workshop for Research School on Statistics and Data Science 2019 - RSSDS2019**, La Trobe University, Melbourne, Australia ([webpage]( https://sites.google.com/view/rssds2019/home) and 
-([poster](Call_for_papers_poster.pdf)) ([slides here](RSSDS-workshop-2019.pdf))
+* July 24--26, 2019. Invited Speaker and co-Chair, **Workshop for Research School on Statistics and Data Science 2019 - RSSDS2019**, La Trobe University, Melbourne, Australia. Topics include Statistics, Data Science and allied fields such as AI and Machine Learning are invited to register. Workshop proceedings published in **Springer Communications in Computer and Information Science (CCIS)**.  ([webpage]( https://sites.google.com/view/rssds2019/home) and [poster](Call_for_papers_poster.pdf)). [My slides here](RSSDS-workshop-2019.pdf)
 
-* June 25-27, Conference Presentation, **EcoSta2019** Conference. National Chung Hsing University, Taiwan ([conference webpage](http://cmstatistics.org/EcoSta2019/index.php))
+* June 25-27, 2019. Conference Presenter, **EcoSta2019** Conference. National Chung Hsing University, Taiwan ([conference webpage](http://cmstatistics.org/EcoSta2019/index.php))
 
-* June 19, Invited Speaker, **AMSI Choose Maths Day**, La Trobe University, Melbourne, Australia
+* June 19, 2019. Invited Speaker, **AMSI Choose Maths Day**, La Trobe University, Melbourne, Australia
 
-* June 5, Speaker Joint Seminar, **Special seminar joint La Trobe University & Harvard University**, La Trobe University, Melbourne, Australia
+* June 5, 2019. Speaker Joint Seminar, **Special seminar joint La Trobe University & Harvard University**, La Trobe University, Melbourne, Australia
 
-* May 15, Q&A panel discussion speaker for celebrations for the inaugural **International Women in Mathematics Day**, in honour of the birthday of Maryam Mirzakhani on 12 May, the first female Fields Medalist
+* May 15, 2019. Q&A panel discussion speaker for celebrations for the inaugural **International Women in Mathematics Day**, in honour of the birthday of Maryam Mirzakhani on 12 May, the first female Fields Medalist
 ([poster](WomenInMathsPublicLecture.pdf))
 
+* December 2018. Chair - Statistics Session, AMSI Summer Scholar Conference, Melbourne University
 
-**2018 and earlier**
+* December 2018. Invited Speaker, AMSI Summer Scholar Conference, Melbourne University
 
-* December 2018, Chair - Statistics Session, AMSI Summer Scholar Conference, Melbourne University
+* November 2018. Supervisor, AMSI Summer Scholar Conference, Melbourne University
 
-* July 24 2018, Invited Speaker, **La Trobe -- Kyushu joint seminar series**, La Trobe University, Melbourne, Australia and Kyushu University, Japan (via zoom) ([slides here](Score-Test-2018_Presentation_Kyushu.pdf))
+* July 24 2018. Invited Speaker, **La Trobe -- Kyushu joint seminar series**, La Trobe University, Melbourne, Australia and Kyushu University, Japan (via zoom) ([slides here](Score-Test-2018_Presentation_Kyushu.pdf))
 
-* July 4-6 2018, Conference Presentation, **ISEC 2018**, St Andrews University, Scotland ([slides here](thu-c-2-karavarsamis-2348.pdf))
+* July 4-6 2018. Conference Presentation, **ISEC 2018**, St Andrews University, Scotland ([slides here](thu-c-2-karavarsamis-2348.pdf))
 
 
 
@@ -124,16 +124,16 @@ Natalie’s extensive publication record spans her career as a research academic
 
 **Supervision** 
 
-Current Supervision
-
 * Two PhD candidates - Co-supervisor (2018--Present and 2020--Present) <br>
-* Two AMSI Summer Scholars - Supervisor (2019)
+* Two AMSI Summer Scholars - Supervisor (2018--2019)
 
 Available for Honours, Masters and PhD supervision.
 
 ---
 
 **Grants & Awards** (selected)
+
+* Shortlisted Fulbright candidate, 2019.
 
 * Early Researcher Establishment Grant, School of Mathematics and Statistics, University of Melbourne (2016--Present).
 
