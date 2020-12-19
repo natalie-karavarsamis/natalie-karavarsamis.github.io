@@ -13,8 +13,8 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 **Dr Natalie Karavarsamis** <br>
-Academic, Research Data Scientist, Lecturer, <br>
-Professional Statistical Consultant, Programmer
+Academic, Researcher and Data Scientist, Lecturer, <br>
+Professional Statistical Consultant, Computer Programmer
 
 
 `r icon::fa("twitter")`  @nataliekarav <br>
@@ -52,19 +52,21 @@ Victoria, Australia <br>
 
 **Overview**
 
-Dr Natalie Karavarsamis is an experienced statistics researcher, data scientist, coder/programmer, lecturer and consultant. Currently Natalie is employed as Lecturer of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals. Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
+Dr Natalie Karavarsamis is statistics researcher and consultant, data scientist, coder/programmer, and lecturer. Natalie is Lecturer and Researcher of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals, such as, JABE, ANZSTAT, Biometrics, Austral Ecology, Journal of Pediatric Medicine. 
 
-Previous academic roles comprise Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD candidature) (University of Melbourne).
+Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
 
-Natalie’s research expertise is in statistical ecology, and in analysing and modelling large longitudinal biological data, genetic data, neuroscience and neuroepigenetic data, medical statistics and financial data. 
+Aacademic roles include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD candidature) (University of Melbourne).
 
-Natalie is a world leader at developing methods, models and software with modern statistical approaches. For example, for occupancy data with partial likelihoods, conditional and composite likelihoods, GLMs, Gams, IWLS. As well circular statistics, cylindrical distributions and HMMs for large biological data. Natalie has developed R software; her two-stage package for modelling occupancy data (in release). 
+Natalie’s research expertise is developing new statistical methodology, analysing, and modelling, for statistical ecology, sparse data, large longitudinal biological data, genetic data, neuroscience and epigenetic data, medical statistics and financial data. Demonstrated in Natalie’s extensive publication record in in peer-reviewed journals and books in her roles as research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_master_CV.pdf)).
 
-Natalie has forged global collaborations with Boston Children’s Hospital and Department of Neuroscience at Harvard University (USA), with Statify at INRIA University of Caen (France), and with the School of Biosciences at University of Melbourne, the University of Kent, and La Trobe University. 
+Natalie is a world leader at developing methods, models and software with modern statistical approaches. For example, for occupancy data with partial likelihoods, conditional and composite likelihoods, GLMs, Gams, IWLS. Circular statistics, cylindrical distributions and HMMs for large biological data. Natalie has developed her own R software package; her two-stage R package for modelling occupancy data (in release). 
+
+Natalie has forged global collaborations with Boston Children’s Hospital and Department of Neuroscience at Harvard University (USA), with Statify at INRIA University of Caen (France), and with the School of Biosciences at University of Melbourne, the University of Kent, and La Trobe University, and elsewhere. 
 
 Natalie has twenty years industry statistical consulting experience and worked on large international industry projects for NGOs, national and international governments, and commercial industries and stakeholders ([details in CV](Karavarsamis_master_CV.pdf)). 
 
-Natalie’s extensive publication record spans her career as a research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_master_CV.pdf)). Natalie has taught statistics for more than two decades, at tertiary (undergraduate and postgraduate) and professional levels ([details in CV](Karavarsamis_master_CV.pdf)). Currently, Natalie co-supervises two PhD candidates in Statistics, and has trained and supervised research assistants and supervises AMSI scholars.
+Natalie has delivered successful statistics courses for more than two decades, at tertiary level (undergraduate and postgraduate), professional level, and private sector ([details in CV](Karavarsamis_master_CV.pdf)). Natalie supervises research students; Honours, Masters and PhD candidates in Statistics, Ecology, and Social Sciences, and AMSI scholars (Australian Mathematical Sciences Institute). She has extensive industry training experience in developing and delivering successful workshops, and supervises research assistants, teaching staff, tutors, and students.
 
 ---
 
@@ -132,7 +134,7 @@ Available for Honours, Masters and PhD supervision.
 
 * Statify (previously MISTIS) invited academic travel grant (2019).
 
-* Travel Grant, La Trobe University (2019).
+* Academic Travel Grant, La Trobe University (2019).
 
 ---
 
