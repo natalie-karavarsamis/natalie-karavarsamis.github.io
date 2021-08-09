@@ -1,9 +1,10 @@
 ---
 title: "Natalie Karavarsamis, PhD"
-output: 
+output:
   html_document:
-      theme: spacelab
-date: "`r format(Sys.time(), '%d %B, %Y')`"      
+    theme: spacelab
+  pdf_document: default
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 <img src= "https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/blob/master/Staff_pic.png?raw=true" style="width: 200px;"/>
@@ -18,22 +19,22 @@ Professional Statistical Consultant, Computer Programmer
 
 
 `r icon::fa("twitter")`  @nataliekarav <br>
-`r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au <br>
-`r icon::fa("envelope")` nkarav@unimelb.edu.au <br>
+<!-- `r icon::fa("envelope")` n.karavarsamis@latrobe.edu.au <br> -->
+<!-- `r icon::fa("envelope")` nkarav@unimelb.edu.au <br> -->
 Orcid: [orcid.org/0000-0002-5920-9736](https://orcid.org/0000-0002-5920-9736) <br>
 [Natalie on ResearcGate](https://www.researchgate.net/profile/Natalie_Karavarsamis)
 
-Curriculum Vitae (CV): [click here for download](Karavarsamis_master_CV.pdf).
+Curriculum Vitae (CV) including a complete list of publications and presentations: [click here to download](Karavarsamis_master_CV.pdf).
 
-Lecturer  <br>
-Department of Mathematics and Statistics <br>
-La Trobe University <br>
-Melbourne, Victoria, Australia <br>
+<!-- Lecturer  <br> -->
+<!-- Department of Mathematics and Statistics <br> -->
+<!-- La Trobe University <br> -->
+<!-- Melbourne, Victoria, Australia <br> -->
 
-Honorary Research Fellow <br>
-School of Mathematics and Statistics <br>
-University of Melbourne <br>
-Victoria, Australia <br>
+<!-- Honorary Research Fellow <br> -->
+<!-- School of Mathematics and Statistics <br> -->
+<!-- University of Melbourne <br> -->
+<!-- Victoria, Australia <br> -->
 
 
 
