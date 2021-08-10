@@ -4,7 +4,7 @@ output:
   html_document:
     theme: spacelab
   pdf_document: default
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+# date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 <img src= "https://github.com/natalie-karavarsamis/natalie-karavarsamis.github.io/blob/master/Staff_pic.png?raw=true" style="width: 200px;"/>
@@ -53,7 +53,7 @@ Curriculum Vitae (CV) including a complete list of publications and presentation
 
 **Overview**
 
-Dr Natalie Karavarsamis is statistics researcher and consultant, data scientist, coder/programmer, and lecturer. Natalie is Lecturer and Researcher of Statistics at the Department of Mathematics and Statistics at La Trobe University. Natalie is also Honorary Research Fellow at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals, such as, JABE, ANZSTAT, Biometrics, Austral Ecology, Journal of Pediatric Medicine. 
+Dr Natalie Karavarsamis is statistics researcher and consultant, data scientist, coder/programmer, and lecturer. Natalie has been Lecturer and Researcher at the Department of Mathematics and Statistics at La Trobe University and at the School of Mathematics and Statistics, University of Melbourne. Natalie serves as technical sub-editor on the Australian and New Zealand Journal of Statistics, and as reviewer on a number of international peer-reviewed journals, such as, JABE, ANZSTAT, Biometrics, Austral Ecology, Journal of Pediatric Medicine. 
 
 Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, University of Melbourne. Prior to completing her PhD Natalie completed a Bachelor of Science Degree and a Bachelor of Science Honours Degree graduating with First Class Honours at University of Melbourne.
 
