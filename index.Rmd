@@ -21,7 +21,7 @@ Professional Statistical Consultant, Computer Programmer
 Orcid: [orcid.org/0000-0002-5920-9736](https://orcid.org/0000-0002-5920-9736) <br>
 [Natalie on ResearcGate](https://www.researchgate.net/profile/Natalie_Karavarsamis)
 
-Curriculum Vitae (CV) including a complete list of publications and presentations: [click here to download](Karavarsamis_master_CV.pdf).
+Curriculum Vitae (CV) including a complete list of publications and presentations: [click here to download](Karavarsamis_CV_CO.pdf).
 
 
 ---
@@ -46,15 +46,15 @@ Natalie obtained her PhD in Statistics at School of Mathematics and Statistics, 
 
 Aacademic roles include Lecturer at School of Mathematics and Statistics (University of Melbourne), Postdoctoral Research Fellow at School of Biosciences (University of Melbourne) and with School of Mathematical Sciences (RMIT), and Research Fellow at Department of Food and Land Sciences (prior to PhD candidature) (University of Melbourne).
 
-Natalie’s research expertise is developing new statistical methodology, analysing, and modelling, for statistical ecology, sparse data, large longitudinal biological data, genetic data, neuroscience and epigenetic data, medical statistics and financial data. Demonstrated in Natalie’s extensive publication record in in peer-reviewed journals and books in her roles as research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_master_CV.pdf)).
+Natalie’s research expertise is developing new statistical methodology, analysing, and modelling, for statistical ecology, sparse data, large longitudinal biological data, genetic data, neuroscience and epigenetic data, medical statistics and financial data. Demonstrated in Natalie’s extensive publication record in in peer-reviewed journals and books in her roles as research academic, professional statistician and consultant ([list of publications in CV](Karavarsamis_CV_CO.pdf)).
 
 Natalie is a world leader at developing methods, models and software with modern statistical approaches. For example, for occupancy data with partial likelihoods, conditional and composite likelihoods, GLMs, Gams, IWLS. Circular statistics, cylindrical distributions and HMMs for large biological data. Natalie has developed her own R software package; her two-stage R package for modelling occupancy data (in release). 
 
 Natalie has forged global collaborations with Boston Children’s Hospital and Department of Neuroscience at Harvard University (USA), with Statify at INRIA University of Caen (France), and with the School of Biosciences at University of Melbourne, the University of Kent, and La Trobe University, and elsewhere. 
 
-Natalie has twenty years industry statistical consulting experience and worked on large international industry projects for NGOs, national and international governments, and commercial industries and stakeholders ([details in CV](Karavarsamis_master_CV.pdf)). 
+Natalie has twenty years industry statistical consulting experience and worked on large international industry projects for NGOs, national and international governments, and commercial industries and stakeholders ([details in CV](Karavarsamis_CV_CO.pdf)). 
 
-Natalie has delivered successful statistics courses for more than two decades, at tertiary level (undergraduate and postgraduate), professional level, and private sector ([details in CV](Karavarsamis_master_CV.pdf)). Natalie supervises research students; Honours, Masters and PhD candidates in Statistics, Ecology, and Social Sciences, and AMSI scholars (Australian Mathematical Sciences Institute). She has extensive industry training experience in developing and delivering successful workshops, and supervises research assistants, teaching staff, tutors, and students.
+Natalie has delivered successful statistics courses for more than two decades, at tertiary level (undergraduate and postgraduate), professional level, and private sector ([details in CV](Karavarsamis_CV_CO.pdf)). Natalie supervises research students; Honours, Masters and PhD candidates in Statistics, Ecology, and Social Sciences, and AMSI scholars (Australian Mathematical Sciences Institute). She has extensive industry training experience in developing and delivering successful workshops, and supervises research assistants, teaching staff, tutors, and students.
 
 ---
 
@@ -109,7 +109,7 @@ In her role as researcher, she manages deadlines associated with research and de
 
 **Publications**
 
-List in my CV -- [click here to download](Karavarsamis_master_CV.pdf)
+List in my CV -- [click here to download](Karavarsamis_CV_CO.pdf)
 
 ---
 
