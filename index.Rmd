@@ -13,15 +13,15 @@ output:
 
 ---
 
-**Dr Natalie Karavarsamis** <br>
-Academic, Researcher and Data Scientist, Lecturer, <br>
-Professional Statistical Consultant, Computer Programmer
+<!-- ## **Dr Natalie Karavarsamis** <br> -->
+### Academic, Researcher and Data Scientist, Lecturer, <br>
+### Professional Statistical Consultant, Computer Programmer
 
 
-Orcid: [orcid.org/0000-0002-5920-9736](https://orcid.org/0000-0002-5920-9736) <br>
-[Natalie on ResearcGate](https://www.researchgate.net/profile/Natalie_Karavarsamis)
+<!-- Orcid: [orcid.org/0000-0002-5920-9736](https://orcid.org/0000-0002-5920-9736) <br> -->
+<!-- [Natalie on ResearcGate](https://www.researchgate.net/profile/Natalie_Karavarsamis) -->
 
-Curriculum Vitae (CV) including a complete list of publications and presentations: [click here to download](Karavarsamis_CV.pdf).
+Curriculum Vitae (CV) including a complete list of publications and presentations: [download here](Karavarsamis_CV.pdf).
 
 
 ---
