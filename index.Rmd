@@ -21,8 +21,10 @@ output:
 <!-- Orcid: [orcid.org/0000-0002-5920-9736](https://orcid.org/0000-0002-5920-9736) <br> -->
 <!-- [Natalie on ResearcGate](https://www.researchgate.net/profile/Natalie_Karavarsamis) -->
 
-Curriculum Vitae (CV) including a complete list of publications and presentations: [download here](Karavarsamis_CV.pdf).
+---
 
+**Curriculum Vitae (CV) including a complete list of publications and presentations: [download here](Karavarsamis_CV.pdf).** <br>
+**A description of skills, knowledge, and abilities: [download here](Selection Criteria Template 220424.pdf). **
 
 ---
 
