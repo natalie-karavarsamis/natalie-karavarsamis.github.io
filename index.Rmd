@@ -43,6 +43,13 @@ output:
 
 **Professional Roles** 
 
+Among other responsibilities, I was statistical (epidemiological) consultant to the departments within the Cancer Council of Victoria (CCV), advising on their research needs in all areas of cancer-related statistics and epidemiology. I was responsible for producing cancer survival rates using the data from the Victorian Cancer Registry as maintained by the CCV. 
+
+During my employment at the Department of Primary Industries (DPI) (Victoria, Australia) as a statistician (biometrician), I was a specialist in the design and analysis of complex experiments. I was a state-wide statistical consultant to agricultural and food scientists at DPI as well as external stakeholders. I worked on high-impact national and international projects with industry and government stakeholders (major projects outlined in my CV).
+
+In 2019, I was an invited academic to travel to the Boston Children's Hospital Research Lab and Department of Neuroscience at Harvard in the US. I visited the wet-lab to consult on the experimental design and analysis of their big-data zebrafish larval studies for new precision medicines to treat childhood epilepsy. As a result, I was a Fulbright finalist for my research proposal into designing and modelling zebrafish studies with high-throughput data for precision medicine for childhood epilepsy. Output from my research on investigating, analysing, and modelling the high-throughput data, were research seminars, and invited speaker presentations at La Trobe University and the Boston Children's Hospital Research Lab. My knowledge and years of experience in experimental design and cohort studies were invaluable to this research topic.
+
+
 ---
 
 **Overview**
