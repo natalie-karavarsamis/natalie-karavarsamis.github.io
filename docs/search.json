@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Profile photograph\n\n\nNote: how to add figure caption/how to centre fig caption to top/bottom figure.\n\n\nNote: How to move image left/right \n\n\n\nExternal link:\nQuarto\nInternal link:\nRead more about my research\nEmail link:\nEmail me\nNote: how to open CV in a new window, automatically Download my CV"
+  },
+  {
+    "objectID": "index.html#resizing-images",
+    "href": "index.html#resizing-images",
+    "title": "Home",
+    "section": "",
+    "text": "Note: How to move image left/right"
+  },
+  {
+    "objectID": "index.html#adding-links",
+    "href": "index.html#adding-links",
+    "title": "Home",
+    "section": "",
+    "text": "External link:\nQuarto\nInternal link:\nRead more about my research\nEmail link:\nEmail me\nNote: how to open CV in a new window, automatically Download my CV"
+  },
+  {
+    "objectID": "index.html#section-heading",
+    "href": "index.html#section-heading",
+    "title": "Home",
+    "section": "Section heading",
+    "text": "Section heading\nLipsum\n\nSubsection heading\nMy research areas include:\n\nStatistical modelling\nExperimental design\nBiostatistics\nReproducible research\n\n\n\n\n\n\n\nNote\n\n\n\nThis is an important note.\n\n\n\n\n\n\n\n\nTip\n\n\n\nUse short pages, clear headings, and simple navigation.\n\n\nNote: How to add info in footer eg email, linkedin etc Note: How to add email, linkedin etc shape\n\n\n\n\n\nProfile photograph\n\n\n\n\nDr Natalie Karavarsamis\nStatistician and Data Scientist\nMy work spans statistical methodology, biostatistics, ecology, and reproducible research."
+  },
+  {
+    "objectID": "index.html#citing-references",
+    "href": "index.html#citing-references",
+    "title": "Home",
+    "section": "Citing references",
+    "text": "Citing references\nThis method is discussed in Karavarsamis et al. (2020).\nMultiple citations:\nRelated work includes (Karavarsamis et al. 2020; Karavarsamis and Huggins 2019)."
+  }
+]
